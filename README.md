@@ -1,40 +1,89 @@
-# Dental Clinic Manager
-Dental Clinic  Manager desktop app for Dental Clinics in Israel.
+# 🦷 Dental Clinic Manager
 
-using javafx gui as frontend and AWS S3 as backend - objects are json files.
-each clinic has its own bucket.
-used Launch4j to fix hebrew language problem
+A **desktop application for dental clinics in Israel**, designed to simplify patient and appointment management.
 
-the code is private so wont upload it here .
+---
 
-screenshots of the software : 
+## 💻 Overview
+**Dental Clinic Manager** is built using **JavaFX** for the GUI (frontend) and **AWS S3** for the backend — where each clinic securely stores its data as **JSON objects** in a dedicated bucket.
 
-Login for doctors
-![Login for doctors](login.png)
+This project demonstrates:
+- Practical use of **cloud-based storage architecture** (AWS S3)
+- **Desktop GUI design** with JavaFX
+- **Multi-language support**, including Hebrew (using **Launch4j** to resolve encoding issues)
 
-main screen
-![main screen](main-interface.png)
+> ⚙️ *The full source code is private (paid service). Recruiters or interviewers can request access for demonstration purposes.*
 
-adding patients
-![adding patients](addPatient.png)
+---
 
-adding appointments summary
-![adding appointments summary](blurredappointmentSummary.png)
+## 🖼️ Software Screenshots
 
-selecting specific tooth and what operations done on it for this appointment
-![selecting specific tooth and what operations done on it for this appointment](blurred-secondary-teeth-set.png)
-![](primaryteethset.png)
+### 🔐 Login for Doctors
+<p align="center">
+  <img src="login.png" width="600" alt="Login for doctors">
+</p>
 
-browsing records and appointments summarries
-![browsing records and appointments summarries](info.png)
-finding all patients appointments summarries that visited in specific date
-![finding all patients appointments summarries that visited in specific date](blurred-findRecordsbyDate.png)
-finding all appointments summaries of a specific patients
-![finding all appointments summaries of a specific patients](blurredfindRecordsbyName.png)
-viewing the summarries you saved
-![viewing the summaris you saved](saved-tebolim.png)
+---
 
-Patietns Accounts manager - money handling
-![Patietns Accounts manager - money handling](money.png)
+### 🏠 Main Screen
+<p align="center">
+  <img src="main-interface.png" width="700" alt="Main interface">
+</p>
 
+---
 
+### ➕ Adding Patients
+<p align="center">
+  <img src="addPatient.png" width="700" alt="Add Patient">
+</p>
+
+---
+
+### 🗓️ Adding Appointment Summaries
+<p align="center">
+  <img src="blurredappointmentSummary.png" width="700" alt="Adding appointment summary">
+</p>
+
+---
+
+### 🦷 Selecting Specific Tooth and Procedures
+<p align="center">
+  <img src="blurred-secondary-teeth-set.png" width="700" alt="Secondary teeth set">
+  <br>
+  <img src="primaryteethset.png" width="700" alt="Primary teeth set">
+</p>
+
+---
+
+### 📂 Browsing Records & Appointment Summaries
+<p align="center">
+  <img src="info.png" width="700" alt="Browsing records">
+</p>
+
+---
+
+### 📅 Find All Patients’ Appointments by Date
+<p align="center">
+  <img src="blurred-findRecordsbyDate.png" width="700" alt="Find records by date">
+</p>
+
+---
+
+### 🧑‍⚕️ Find Appointment Summaries by Patient
+<p align="center">
+  <img src="blurredfindRecordsbyName.png" width="700" alt="Find records by name">
+</p>
+
+---
+
+### 📝 Viewing Saved Summaries
+<p align="center">
+  <img src="saved-tebolim.png" width="700" alt="Saved summaries">
+</p>
+
+---
+
+## 📬 Contact
+If you’re a **recruiter** or **interviewer** interested in viewing the private code, feel free to reach out — I’ll gladly provide a demonstration.
+
+---
