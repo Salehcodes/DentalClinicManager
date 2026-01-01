@@ -1,4 +1,4 @@
-# 🦷 Dental Clinic Manager
+# 🦷 Dental Clinic Manager SAAS
 
 A **desktop application for dental clinics in Israel**, designed to simplify patient and appointment management.
 
